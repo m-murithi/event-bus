@@ -17,11 +17,11 @@ To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine:
 ```
-
+https://github.com/m-murithi/event-bus.git
 ```
 2. Navigate to the project directory:
 ```
-
+cd event-bus
 ```
 3. Install the dependencies using npm:
 ```
